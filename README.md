@@ -43,4 +43,4 @@ Personally, I think that one of the most challenging parts of the game itself th
 
 One last problem I faced however, is the build process. Somehow, I am unable to build my game into a WebGL platform, which enables the game to run online. Therefore, the first version of my game can only be downloaded to be executed. Thus, I plan to continue working on the compiler error so that it is able to be run on a browser, rather than having users download the entire file. 
 
-Downloadable file can be found on itch.io (https://lainechan.itch.io/dodge)
+Downloadable file can be found on itch.io (https://lainechan.itch.io/dodge) and in the UnityBuilds file uploaded.
